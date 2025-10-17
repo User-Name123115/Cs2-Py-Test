@@ -1,0 +1,22 @@
+{
+  "Hard Dark": {
+    "bg_color": "#0b0b0b",
+    "accent": "#ff3b30",
+    "text": "#e6e6e6",
+    "bone_color": "#00ff00",
+    "fov_color": "#ffff00",
+    "sidebar_bg": "#0f1113",
+    "button_checked_bg": "#ffffff",
+    "button_checked_text": "#000000"
+  },
+  "Hard Neon": {
+    "bg_color": "#001219",
+    "accent": "#00f5d4",
+    "text": "#caf0f8",
+    "bone_color": "#00f5d4",
+    "fov_color": "#ffb703",
+    "sidebar_bg": "#001b2e",
+    "button_checked_bg": "#00f5d4",
+    "button_checked_text": "#000000"
+  }
+}
