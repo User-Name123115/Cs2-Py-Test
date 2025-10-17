@@ -1,21 +1,21 @@
 {
   "Hard Dark": {
-    "bg_color": "#0b0b0b",
+    "background_image": "https://example.com/path/to/background.gif",
     "accent": "#ff3b30",
     "text": "#e6e6e6",
     "bone_color": "#00ff00",
     "fov_color": "#ffff00",
-    "sidebar_bg": "#0f1113",
+    "sidebar_bg": "https://example.com/path/to/sidebar_background.png",
     "button_checked_bg": "#ffffff",
     "button_checked_text": "#000000"
   },
   "Hard Neon": {
-    "bg_color": "#001219",
+    "background_image": "https://example.com/path/to/neon_background.gif",
     "accent": "#00f5d4",
     "text": "#caf0f8",
     "bone_color": "#00f5d4",
     "fov_color": "#ffb703",
-    "sidebar_bg": "#001b2e",
+    "sidebar_bg": "https://example.com/path/to/neon_sidebar.png",
     "button_checked_bg": "#00f5d4",
     "button_checked_text": "#000000"
   }
